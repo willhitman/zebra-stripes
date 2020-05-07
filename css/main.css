@@ -4,12 +4,16 @@
     border-radius: 20px;
 }
 table{
+    padding-top: 10px;
     width:80%;
-    margin-top:30px;
+    
+   
+    
 
 }
 tr{
     text-align: center;
+    
 }
 .btn{
     margin-top: 40px;
@@ -18,10 +22,20 @@ tr{
     align-self: center;
     background-color: rgb(255, 232, 232);
     margin-top: 50px;
+    padding-top: 20px;
+    padding-left: 15%;
 }
 .top{
     border-top: solid;
 }
 body{
     align-content: center;
+}
+.left{
+    border-right: solid;
+}
+.right{
+    border-left:solid ;
+}.bottom{
+    border-bottom: solid;
 }
