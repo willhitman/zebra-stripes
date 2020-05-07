@@ -1,0 +1,27 @@
+.btop{
+    border-top: 1px;
+    border-color: red;
+    border-radius: 20px;
+}
+table{
+    width:80%;
+    margin-top:30px;
+
+}
+tr{
+    text-align: center;
+}
+.btn{
+    margin-top: 40px;
+}
+.container{
+    align-self: center;
+    background-color: rgb(255, 232, 232);
+    margin-top: 50px;
+}
+.top{
+    border-top: solid;
+}
+body{
+    align-content: center;
+}
